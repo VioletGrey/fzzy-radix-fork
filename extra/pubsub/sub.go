@@ -7,7 +7,7 @@ import (
 	"errors"
 	"net"
 
-	"github.com/fzzy/radix/redis"
+	"github.com/VioletGrey/fzzy-radix-fork/redis"
 )
 
 type SubReplyType uint8
