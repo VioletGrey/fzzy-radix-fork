@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/fzzy/radix/redis"
+	"github.com/VioletGrey/fzzy-radix-fork/redis"
 )
 
 func TestSubscribe(t *testing.T) {

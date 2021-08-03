@@ -2,7 +2,7 @@
 //
 // To import inside your package do:
 //
-//	import "github.com/fzzy/radix/redis"
+//	import "github.com/VioletGrey/fzzy-radix-fork/redis"
 //
 // Connecting
 //
